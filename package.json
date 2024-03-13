@@ -1,11 +1,15 @@
 { "name": "@aichi/web3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test project",
   "main": "n/a",
   "license": "MIT",
   "author": {
     "name": "Michal Aichinger",
     "url": "https://github.com/aichi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aichi/web3.git"
   },
   "publishConfig": {
     "access": "public"
