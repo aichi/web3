@@ -1,0 +1,12 @@
+{ "name": "Web3",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "n/a",
+  "license": "MIT",
+  "author": {
+    "name": "Michal Aichinger",
+    "url": "https://github.com/aichi"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
