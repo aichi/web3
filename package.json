@@ -1,4 +1,4 @@
-{ "name": "@aichi/Web3",
+{ "name": "Web3_from_Aichi",
   "version": "1.0.0",
   "description": "Test project",
   "main": "n/a",
@@ -6,6 +6,9 @@
   "author": {
     "name": "Michal Aichinger",
     "url": "https://github.com/aichi"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "dependencies": {},
   "devDependencies": {}
